@@ -1,0 +1,6 @@
+.pytest_cache/
+.tenzor_env/
+chromedriver-win64/
+logs/
+app/__pycache__
+downloads/
